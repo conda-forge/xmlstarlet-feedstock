@@ -19,7 +19,6 @@ requirements:
     - {{ stdlib('c') }}
     - autoconf
     - automake
-    - gnuconfig  # [unix]
     - pkg-config
     - make
   host:
